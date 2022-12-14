@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "960301574567",
+    "project_id": "recipe-1bdc2",
+    "storage_bucket": "recipe-1bdc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960301574567:android:4f95d2bead6d717f8cae82",
+        "android_client_info": {
+          "package_name": "com.example.firebasedemo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960301574567-jhg9shv10jqji8puq1gbpp34obl28tdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK4Q17s6sF-9LMbLU-hp75TcfBx_TV33Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960301574567-jhg9shv10jqji8puq1gbpp34obl28tdp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
